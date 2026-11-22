@@ -1,4 +1,4 @@
-8#include <stdio.h>
+#include <stdio.h>
 int main() {
 	int povtor;
 	printf("Vvedit chislo n :");
